@@ -25,7 +25,7 @@ const DEEP_LINKS = {
   sunsama: 'sunsama://',
   shortwave: 'shortwave://',
   reminders: 'x-apple-reminderkit://',
-  weather: 'https://weather.com', // fallback to web for weather
+  weather: 'carrotweather://',
 };
 
 // Homepage - list all available redirects
